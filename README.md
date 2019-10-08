@@ -23,3 +23,13 @@ HFGL,we're goders. 开心做游戏
 - [ ] 奖章系统（WEB&GAME
   - [ ] WEB
   - [ ] GAME goal系统对接
+
+
+
+### Tech
+
+GAME: Unity/Unreal/cocos
+
+WEB-FE: vue/vuetify...
+
+Backend: node.js/go
